@@ -17,3 +17,5 @@ Features:
 This database project offers a scalable solution for managing educational institutions within the university. SQL scripts are provided to create, populate, and query the database.
 
 Developed by Osman Yetkin.
+# Kırklareli Üniversitesi Veri Tabanı Projesi  
+**Language**: SQL  
